@@ -1,0 +1,6 @@
+﻿<%@ ServiceHost Language="C#" 
+    Debug="true" 
+    Service="municipalidad.QuejaService" 
+    CodeBehind="QuejaService.svc.cs" 
+    Factory="System.ServiceModel.Activation.WebServiceHostFactory"
+    %>

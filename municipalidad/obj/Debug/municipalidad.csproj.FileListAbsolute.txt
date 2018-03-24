@@ -1,0 +1,13 @@
+D:\bbonifaz\Otros\Android\ServiciosMunicipalidad\municipalidad\municipalidad\bin\municipalidad.dll.config
+D:\bbonifaz\Otros\Android\ServiciosMunicipalidad\municipalidad\municipalidad\bin\municipalidad.dll
+D:\bbonifaz\Otros\Android\ServiciosMunicipalidad\municipalidad\municipalidad\bin\municipalidad.pdb
+D:\bbonifaz\Otros\Android\ServiciosMunicipalidad\municipalidad\municipalidad\obj\Debug\municipalidad.csprojResolveAssemblyReference.cache
+D:\bbonifaz\Otros\Android\ServiciosMunicipalidad\municipalidad\municipalidad\obj\Debug\municipalidad.dll
+D:\bbonifaz\Otros\Android\ServiciosMunicipalidad\municipalidad\municipalidad\obj\Debug\municipalidad.pdb
+D:\Estudio\upc\moviles\ServiciosMunicipalidad\municipalidad\municipalidad\bin\municipalidad.dll.config
+D:\Estudio\upc\moviles\ServiciosMunicipalidad\municipalidad\municipalidad\bin\municipalidad.dll
+D:\Estudio\upc\moviles\ServiciosMunicipalidad\municipalidad\municipalidad\bin\municipalidad.pdb
+D:\Estudio\upc\moviles\ServiciosMunicipalidad\municipalidad\municipalidad\obj\Debug\municipalidad.csprojResolveAssemblyReference.cache
+D:\Estudio\upc\moviles\ServiciosMunicipalidad\municipalidad\municipalidad\obj\Debug\municipalidad.csproj.CoreCompileInputs.cache
+D:\Estudio\upc\moviles\ServiciosMunicipalidad\municipalidad\municipalidad\obj\Debug\municipalidad.dll
+D:\Estudio\upc\moviles\ServiciosMunicipalidad\municipalidad\municipalidad\obj\Debug\municipalidad.pdb

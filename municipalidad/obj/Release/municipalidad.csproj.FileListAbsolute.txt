@@ -1,0 +1,6 @@
+D:\bbonifaz\Otros\Android\ServiciosMunicipalidad\municipalidad\municipalidad\bin\municipalidad.dll.config
+D:\bbonifaz\Otros\Android\ServiciosMunicipalidad\municipalidad\municipalidad\bin\municipalidad.dll
+D:\bbonifaz\Otros\Android\ServiciosMunicipalidad\municipalidad\municipalidad\bin\municipalidad.pdb
+D:\bbonifaz\Otros\Android\ServiciosMunicipalidad\municipalidad\municipalidad\obj\Release\municipalidad.csprojResolveAssemblyReference.cache
+D:\bbonifaz\Otros\Android\ServiciosMunicipalidad\municipalidad\municipalidad\obj\Release\municipalidad.dll
+D:\bbonifaz\Otros\Android\ServiciosMunicipalidad\municipalidad\municipalidad\obj\Release\municipalidad.pdb
